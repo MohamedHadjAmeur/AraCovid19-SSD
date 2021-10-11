@@ -4,7 +4,7 @@
 To get the full dataset please contact ``mohamedhadjameur@gmail.com`` 
 
 # Description:
-AraCOVID19-MFH [Arxiv URL]() is a manually annotated multi-label Arabic COVID-19 Sentiment and Sarcasm Detection Dataset. The dataset contains 5,162 annotated tweets. AraCOVID19-SSD labels, values, and their signification are provided in the below Table:
+AraCOVID19-MFH [Arxiv URL](https://arxiv.org/abs/2110.01948) is a manually annotated multi-label Arabic COVID-19 Sentiment and Sarcasm Detection Dataset. The dataset contains 5,162 annotated tweets. AraCOVID19-SSD labels, values, and their signification are provided in the below Table:
 
 
  
