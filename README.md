@@ -13,7 +13,7 @@ AraCOVID19-MFH [Arxiv URL](https://arxiv.org/abs/2110.01948) is a manually annot
 An example of the instances present in the dataset are provided in the below Table:
 
 <p align="center">
-<img src="https://github.com/MohamedHadjAmeur/AraCovid19-SSD/blob/main/SSD2.JPG" width="400">
+<img src="https://github.com/MohamedHadjAmeur/AraCovid19-SSD/blob/main/SSD2.JPG" width="600">
 </p>
 
 # Content:
@@ -21,7 +21,7 @@ An example of the instances present in the dataset are provided in the below Tab
 Statistics about the number of tweets in each topic are provided in the below Table:
 
 <p align="center">
-<img src="https://github.com/MohamedHadjAmeur/AraCovid19-SSD/blob/main/SSD3.JPG" width="250">
+<img src="https://github.com/MohamedHadjAmeur/AraCovid19-SSD/blob/main/SSD3.JPG" width="350">
 </p>
 
 # Data Retrieval: 
