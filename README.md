@@ -1,7 +1,7 @@
 # AraCovid19-SSD: Arabic COVID-19 Sentiment and Sarcasm Detection Dataset
 
 # How to get the dataset:
-To get the full dataset please contact ``mohamedhadjameur@gmail.com`` 
+To get the full dataset please contact (you can contact all these emails at the same time to get the quickest response):  ``mohamedhadjameur@gmail.com``, ``ahassina@cerist.dz``, ``drdhn@cerist.dz``
 
 # Description:
 AraCOVID19-MFH [Arxiv URL](https://arxiv.org/abs/2110.01948) is a manually annotated multi-label Arabic COVID-19 Sentiment and Sarcasm Detection Dataset. The dataset contains 5,162 annotated tweets. AraCOVID19-SSD labels, values, and their signification are provided in the below Table:
