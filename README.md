@@ -7,13 +7,13 @@ To get the full dataset please contact ``mohamedhadjameur@gmail.com``
 AraCOVID19-MFH [Arxiv URL](https://arxiv.org/abs/2110.01948) is a manually annotated multi-label Arabic COVID-19 Sentiment and Sarcasm Detection Dataset. The dataset contains 5,162 annotated tweets. AraCOVID19-SSD labels, values, and their signification are provided in the below Table:
 
 <p align="center">
-<img src="https://github.com/MohamedHadjAmeur/AraCovid19-SSD/blob/main/SSD1.JPG" width="800">
+<img src="https://github.com/MohamedHadjAmeur/AraCovid19-SSD/blob/main/SSD1.JPG" width="500">
 </p>
  
 An example of the instances present in the dataset are provided in the below Table:
 
 <p align="center">
-<img src="https://github.com/MohamedHadjAmeur/AraCovid19-SSD/blob/main/SSD2.JPG" width="800">
+<img src="https://github.com/MohamedHadjAmeur/AraCovid19-SSD/blob/main/SSD2.JPG" width="400">
 </p>
 
 # Content:
@@ -21,7 +21,7 @@ An example of the instances present in the dataset are provided in the below Tab
 Statistics about the number of tweets in each topic are provided in the below Table:
 
 <p align="center">
-<img src="https://github.com/MohamedHadjAmeur/AraCovid19-SSD/blob/main/SSD3.JPG" width="800">
+<img src="https://github.com/MohamedHadjAmeur/AraCovid19-SSD/blob/main/SSD3.JPG" width="250">
 </p>
 
 # Data Retrieval: 
